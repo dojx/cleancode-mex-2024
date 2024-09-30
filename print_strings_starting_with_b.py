@@ -6,5 +6,5 @@ def print_strings_starting_with_b(strings):
 
 if __name__ == "__main__":
     # Example usage
-    strings = ['apple', 'banana', 'Blueberry', 'cherry', 'Blackberry']
+    strings = ['Bosch', 'Bangalore', 'Mexico', 'Canada', 'India']
     print_strings_starting_with_b(strings)
